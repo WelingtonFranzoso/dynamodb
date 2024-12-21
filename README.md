@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Este projeto é uma aplicação CRUD (Create, Read, Update, Delete) para gerenciamento de pontuação de jogos. Utilizando a solução de emulação da AWS Localstack e o banco de dados NoSQL DynamoDB, o sistema permite armazenar e gerenciar as pontuações de jogos com base em um username como partition key, game id como sort key e o score (pontuação) fornecido no corpo da requisição.
+Este projeto é uma aplicação CRUD para gerenciamento de pontuação de jogos. Utilizando a solução de emulação da AWS Localstack e o banco de dados NoSQL DynamoDB, o sistema permite armazenar e gerenciar as pontuações de jogos com base em um username como partition key, game id como sort key e o score (pontuação) fornecido no corpo da requisição.
 
 A aplicação tem como objetivo principal fornecer uma interface simples para registrar, consultar, atualizar e excluir pontuações de diferentes jogos.
 
